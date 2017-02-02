@@ -10,7 +10,7 @@ Over time, these Terms will be updated. It is your responsibility to review thes
 
 Pinecast does not actively review or monitor content posted to its infrastructure, nor do we control how content is presented. Content may be inaccurate, incomplete, offensive, unpleasant, or otherwise lacking integrity; this is the sole responsibility of the user that uploads the content. Pinecast is not liable for issues that arise with or because of content posted by users.
 
-When you post content of any type to Pinecast, you grant a non-exclusive license to Pinecast to host the content on Pinecast infrastructure. You also grant a non-exclusively license to any users who access that content. This includes users who may not be registered Pinecast users, and users of third-party websites and services. You own all rights to content that you upload to Pinecast, including the right to remove your content. Content may take an indeterminate amount of time to be fully removed from Pinecast infrastructure. Pinecast may not be able to recover content after deletion.
+When you post content of any type to Pinecast, you grant a non-exclusive license to Pinecast to host the content on Pinecast infrastructure. You also grant a non-exclusive license to any users who access that content. This includes users who may not be registered Pinecast users, and users of third-party websites and services. You own all rights to content that you upload to Pinecast, including the right to remove your content. Content may take an indeterminate amount of time to be fully removed from Pinecast infrastructure. Pinecast may not be able to recover content after deletion.
 
 Before uploading content to Pinecast, you must posess rights to the content you are uploading.
 
