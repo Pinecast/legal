@@ -65,6 +65,10 @@ Pinecast may discontinue its service at any time and without notice, though we o
 
 Pinecast contains links to third parties that we do not control. Content on Pinecast may also be embedded in third party services or websites. Pinecast does not endorse any third party service or website, and take no responsibility or position on their actions.
 
+## Stripe
+
+Payment processing services for users on Pinecast are provided by [Stripe](https://stripe.com) and are subject to the [Stripe Connected Account Agreement](https://stripe.com/connect-account/legal), which includes the [Stripe Terms of Service](https://stripe.com/legal) (collectively, the “Stripe Services Agreement”). By agreeing to these terms or continuing to operate as a user on Pinecast, you agree to be bound by the Stripe Services Agreement, as the same may be modified by Stripe from time to time. As a condition of Pinecast enabling payment processing services through Stripe, you agree to provide Pinecast accurate and complete information about you and your business, and you authorize Pinecast to share it and transaction information related to your use of the payment processing services provided by Stripe.
+
 ## Disclaimer of Warranty
 
 Pinecast and its services are provided "as is". We make no warranties or guarantees (express or implied) of any kind, which means you use Pinecast at your own risk. We don't make any promises about the content within our services, the function of the services, their reliability or availability, or their ability to meet your needs.
