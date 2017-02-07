@@ -20,7 +20,7 @@ You may provide us with information, like a Slack API URL, to enable a Pinecast 
 
 ### Information About Your Browser
 
-We use data that your web browser (or other user agent) to provide you with a better experience. This may include information about which timezone you're located in, your IP address, or which operating system you use. We use this data to improve Pinecast and your user experience. Some data may be used to provide podcast owners with anonymous aggregate information about who accesses or listens to their podcasts.
+We use data that your web browser (or other user agent) makes available to us in order to provide you with a better experience. This may include information about which timezone you're located in, your IP address, or which operating system you use. We use this data to improve Pinecast and your user experience. Some data may be used to provide podcast owners with anonymous aggregate information about who accesses or listens to their podcasts.
 
 Your computer's IP address may be processed to determine your rough location.
 
@@ -41,6 +41,10 @@ Pinecast does have access to less private information, like the name of a credit
 You can read Stripe's privacy policy here:
 
 https://stripe.com/privacy/
+
+### Imported Podcasts
+
+If you use Pinecast's import tool, Pinecast will download information from the feed you provide us in order to copy that information to our servers. Pinecast keeps records of all imported files, including the original URI. This information is used to improve Pinecast and is not shared with third parties.
 
 
 ## How your information is used
