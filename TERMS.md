@@ -12,7 +12,7 @@ Pinecast does not actively review or monitor content posted to its infrastructur
 
 When you post content of any type to Pinecast, you grant a non-exclusive license to Pinecast to host the content on Pinecast infrastructure. You also grant a non-exclusive license to any users who access that content. This includes users who may not be registered Pinecast users, and users of third-party websites and services. You own all rights to content that you upload to Pinecast, including the right to remove your content. Content may take an indeterminate amount of time to be fully removed from Pinecast infrastructure. Pinecast may not be able to recover content after deletion.
 
-Before uploading content to Pinecast, you must posess rights to the content you are uploading.
+Before uploading content to Pinecast, you must possess rights to the content you are uploading.
 
 Pinecast may remove any uploaded content at any time and for any reason.
 
