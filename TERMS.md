@@ -69,6 +69,54 @@ Pinecast contains links to third parties that we do not control. Content on Pine
 
 Payment processing services for users on Pinecast are provided by [Stripe](https://stripe.com) and are subject to the [Stripe Connected Account Agreement](https://stripe.com/connect-account/legal), which includes the [Stripe Terms of Service](https://stripe.com/legal) (collectively, the “Stripe Services Agreement”). By agreeing to these terms or continuing to operate as a user on Pinecast, you agree to be bound by the Stripe Services Agreement, as the same may be modified by Stripe from time to time. As a condition of Pinecast enabling payment processing services through Stripe, you agree to provide Pinecast accurate and complete information about you and your business, and you authorize Pinecast to share it and transaction information related to your use of the payment processing services provided by Stripe.
 
+## Spotify
+
+If you opt-in to submission of your podcast feed to Spotify, there are
+important details that you must be aware of. This section only applies if you
+explicitly choose to publish your podcast on Spotify.
+
+### Authorization
+
+You agree to authorize Pinecast to license all content in your podcast to
+Spotify. You grant Spotify the right to:
+
+- Distribute your content without restriction through all available distribution
+  channels.
+- Distribute your content through Spotify infrastructure.
+- Use some or all of your podcast metadata, and supplement or replace metadata.
+- Copy your content and convert it to other formats.
+- Make your content and metadata available on third party sources.
+- Present your content alongside advertising.
+- Use third-party services to process and distribute your content.
+
+### Copyright
+
+In addition to the copyright provisions of the remainder of this document,
+content submitted to Spotify must not contain copyrighted work that you do not
+have appropriate licenses for. If copyrighted work is published on a podcast
+submitted to Spotify, your Pinecast account may be suspended and your content
+will be removed from Spotify.
+
+### Advertising
+
+Content submitted to Spotify may contain advertising, though it may not contain
+advertisements or sponsorships of:
+
+- Pornographic, obscene, or illegal content
+- Firearms or ammunition
+- Weapons
+- Cigarettes, tobacco, or e-cigarettes
+- Content that relates to political or religious organizations
+- Music streaming services
+
+### Termination
+
+Spotify may stop serving your podcast content at any time at their sole
+discretion.
+
+Pinecast may, at any time, flag your content as ineligible for submission to
+Spotify. 
+
 ## Disclaimer of Warranty
 
 Pinecast and its services are provided "as is". We make no warranties or guarantees (express or implied) of any kind, which means you use Pinecast at your own risk. We don't make any promises about the content within our services, the function of the services, their reliability or availability, or their ability to meet your needs.
