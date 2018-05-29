@@ -6,25 +6,35 @@ By using Pinecast or any of its services you consent to the use of your personal
 
 ## What we collect
 
-### Your Email
+### Your email
 
-Pinecast may collect your email address in order to create an account, leave feedback on a podcast, or leave a tip. If you are leaving feedback or a tip, your email address will be shared with the owner of the podcast. If you collaborate with other users on Pinecast, your email address may be shared with those users.
+Pinecast may collect your email address in order to create an account, leave feedback on a podcast, or leave a tip. If you are leaving feedback or a tip, your email address will be shared with the owner of the podcast. If you collaborate with other users on Pinecast, your email address may be shared with those users. A podcast owner's email address is provided in RSS feeds to allow podcasting services and directories to function correctly.
 
-Pinecast will not share your email address with its partners or third parties.
-
-You may opt-out of any non-essential communications with Pinecast.
-
-### Information You Give Us
+### Information you give us
 
 You may provide us with information, like a Slack API URL, to enable a Pinecast feature. This information is not shared unless explicitly stated.
 
-### Information About Your Browser
+If you send a message to Pinecast, such as through our support channels or through a "Report a problem" form, we may store that message and general information about the state of the page that you're currently on.
+
+#### Financial data
+
+Pinecast collects credit card information to charge customers for paid subscriptions and to charge listeners for tips. This data never passes through Pinecast servers; it is transmitted directly from your browser to Stripe, our payment processor. Because Pinecast never has access to payment card information, the information cannot be transmitted to any other third party.
+
+Pinecast does have access to less private information, like the name of a credit card holder or the last few digits of a bank account number. This information may be displayed on your Pinecast dashboard to clarify billing information, but it is never cached or stored in a Pinecast-controlled database. Any information is requested from Stripe as needed.
+
+If you opt-in to setting up a tip jar, we may request personal information from you to satisfy the requirements of our payments processor. This may include your name, birthdate, address, government issued ID number, and more. We will also collect bank account or debit card information. This information is sent directly to Stripe from your browser and never passes through Pinecast servers.
+
+You can read more about Stripe's practices here:
+
+https://stripe.com/privacy
+
+### Information about your browser
 
 We use data that your web browser (or other user agent) makes available to us in order to provide you with a better experience. This may include information about which timezone you're located in, your IP address, or which operating system you use. We use this data to improve Pinecast and your user experience. Some data may be used to provide podcast owners with anonymous aggregate information about who accesses or listens to their podcasts.
 
 Your computer's IP address may be processed to determine your rough location.
 
-### How You Use Pinecast
+### How you use Pinecast
 
 Pinecast will track how you use the service. This includes things like which pages you visit, the actions you perform on those pages, and any errors you may encounter. This information is used to improve Pinecast.
 
@@ -32,28 +42,46 @@ Pinecast will use a cookie to allow you to remain logged in.
 
 Pinecast allows its users to add Google Analytics to their websites (hosted at `*.pinecast.co` or a non-Pinecast domain name). Google Analytics is only available on sites that explicitly enable it. Only Google and the site owner has access to the data collected.
 
-### Financial Data
+Pinecast does not track your behavior outside of the Pinecast ecosystem. We do not purchase behavior information from third parties.
 
-Pinecast collects credit card information to charge customers for paid subscriptions and to charge listeners for tips. Pinecast also collects bank account details to transfer tip balances to those bank accounts. This data never passes through Pinecast servers; it is transmitted directly from the user's browser to Stripe, our payment processor. Because Pinecast never has access to credit card or bank account information, the information cannot be transmitted to any other third party.
+If you interact with Pinecast emails or other communication, a record of your interaction may be logged.
 
-Pinecast does have access to less private information, like the name of a credit card holder or the last few digits of a bank account number. This information may be displayed in the Pinecast user interface, but it is never cached or stored in a database. The information is requested from Stripe when it is needed.
+### Imported podcasts
 
-You can read Stripe's privacy policy here:
+If you use Pinecast's import tool, Pinecast will download information from the feed you provide us in order to copy that information to our servers. Pinecast keeps records of all imported files, including the original feed and audio file URLs. This information is used to improve Pinecast and is not shared with third parties.
 
-https://stripe.com/privacy/
+### The content you create
 
-### Imported Podcasts
+If you create a podcast on Pinecast, your show's name or brand will not be used without your consent.
 
-If you use Pinecast's import tool, Pinecast will download information from the feed you provide us in order to copy that information to our servers. Pinecast keeps records of all imported files, including the original URI. This information is used to improve Pinecast and is not shared with third parties.
+### Information about children younger than 13 years old
+
+In accordance with the Children’s Online Privacy Protection Act, Pinecast will never knowingly collect information about any person that we believe to be younger than thirteen years old.
+
+
+## Listener and subscriber privacy
+
+Information about podcast listeners and subscribers is saved to provide analytics for podcast owners. If you listen to a Pinecast podcast, your IP address, user agent string, and other metadata sent by your browser may be recorded and stored indefinitely. This information is not available to podcast owners in its raw form and can only be accessed in aggregate.
+
+
+## How your information is stored
+
+Information may be stored in a number of places:
+
+- Information about your account and podcast(s) is stored in Heroku databases
+- Analytics data is stored in Amazon Aurora databases
+- Error reports are stored on Rollbar
+- Your email address and information about how you use Pinecast may be provided to Intercom or Zendesk in order to facilitate customer support
+
+Some information may be stored temporarily in the form of logs in the following places:
+
+- Amazon CloudWatch
+- Heroku logging
 
 
 ## How your information is used
 
 Pinecast will never sell or trade your information with any third party without your direct consent.
-
-Pinecast uses Google Analytics to analyze collected information. Please see Google's privacy policy for more information:
-
-https://www.google.com/policies/privacy/
 
 Pinecast will share information with third parties if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to:
 
@@ -61,8 +89,35 @@ Pinecast will share information with third parties if we have a good-faith belie
 - Enforce our terms of use
 - Protect Pinecast and its services from harm
 
+
 ## How information is protected
 
 - Pinecast avoids storing any data that it does not need.
 - Most Pinecast properties are configured to use HTTPS, meaning all data is encrypted in transit.
 - Our infrastructure uses industry best practices for storing and securing sensitive information.
+- Pinecast relies on trusted third parties like Stripe to protect personal and financial information.
+
+
+## Communications from Pinecast
+
+You may opt out of all non-essential communication with Pinecast. Some messages, such as notifications about events related to your account, cannot be opted-out of.
+
+If you request that Pinecast contact you through an alternative channel, such as Twitter, we may send you messages at your request.
+
+Your account may have opt-in to alerts or notifications through other mediums, such as Slack or web hooks. These communications are logged in order to avoid sending duplicate messages. You may opt-out of these notifications at any time through the interface that you used to configure them.
+
+
+## Removing your information from Pinecast
+
+### Removing financial information
+
+Some information cannot be removed from Pinecast, such as tip jar information. This is in order to comply with regulations which require information collected to facilitate money movement to be stored for a minimum amount of time. Pinecast can close your account(s) with Stripe, but information may be retained until regulations no longer apply.
+
+### Removing content
+
+You may choose to delete a Pinecast podcast at any time. Assets like audio files and image files may not be deleted from their URLs immediately.
+
+### Deleting your account
+
+You may contact Pinecast to have your account deleted. Some information about your account and podcasts may be retained for compliance purposes.
+
