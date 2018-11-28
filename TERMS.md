@@ -42,7 +42,7 @@ You may not do any of the following:
 
 You may not post any of the following:
 
-- Content that is illegal where you are or in the state of California
+- Content that is illegal where you are or in the state of Illinois
 - Content that is threatening, abusive, libelous, or invades the privacy of others
 - Content that is hateful on the grounds of ethnicity, gender, sexual orientation, religion, or any other group (at Pinecast's discretion)
 - Content that contains any malicious content of any kind ("malware")
