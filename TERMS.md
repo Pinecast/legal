@@ -55,6 +55,12 @@ Please contact Pinecast support in writing with a detailed description of any al
 
 If we remove or disable access to content in response to a notice of infringement, we will do our best to contact the user who posted the infringing content. You may respond to such a notice if you believe the content is not infringing. When you respond, you must provide enough information to enable Pinecast to make a reasonable determination. If you materially misrepresent that the content is not infringing, you may be held accountable for damages (including costs and attorneys' fees).
 
+### Headliner
+
+If you choose to use the Headliner integration that Pinecast offers, you are subject to the Media Usage terms set forth by Headliner:
+
+https://static.sparemin.com/static/doc/201808291932/media-use-terms.html
+
 ## Service
 
 Pinecast is always changing. Features may be added or removed at any time. If the price of any feature changes, you will be given sufficient notice and opportunity to cancel any outstanding subscriptions.
