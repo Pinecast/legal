@@ -75,6 +75,10 @@ If you opt-in to submission of your podcast feed to Spotify, there are
 important details that you must be aware of. This section only applies if you
 explicitly choose to publish your podcast on Spotify.
 
+## Headliner
+
+If you choose to take advantage of the Headliner integration, you are subject to [the Headliner terms of use](https://static.sparemin.com/static/doc/201808291932/terms-of-service.html).
+
 ### Authorization
 
 You agree to authorize Pinecast to license all content in your podcast to
