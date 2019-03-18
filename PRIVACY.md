@@ -78,7 +78,6 @@ Some information may be stored temporarily in the form of logs in the following 
 - Amazon CloudWatch
 - Heroku logging
 
-
 ## How your information is used
 
 Pinecast will never sell or trade your information with any third party without your direct consent.
@@ -88,6 +87,12 @@ Pinecast will share information with third parties if we have a good-faith belie
 - Comply with the law, legal process, or enforceable government request
 - Enforce our terms of use
 - Protect Pinecast and its services from harm
+
+### Headliner
+
+If you choose to use our Headliner integration, your podcast and the data you submit is subject to Headliner's privacy policy.
+
+https://static.sparemin.com/static/doc/201808291932/privacy-policy.html
 
 
 ## How information is protected
