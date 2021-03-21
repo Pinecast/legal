@@ -52,7 +52,7 @@ If you use Pinecast's import tool, Pinecast will download information from the f
 
 ### The content you create
 
-If you create a podcast on Pinecast, your show's name or brand will not be used without your consent.
+If you create a podcast on Pinecast, your show's name, assets, and branding will not be used without your consent.
 
 ### Information about children younger than 13 years old
 
@@ -61,22 +61,18 @@ In accordance with the Children’s Online Privacy Protection Act, Pinecast will
 
 ## Listener and subscriber privacy
 
-Information about podcast listeners and subscribers is saved to provide analytics for podcast owners. If you listen to a Pinecast podcast, your IP address, user agent string, and other metadata sent by your browser may be recorded and stored indefinitely. This information is not available to podcast owners in its raw form and can only be accessed in aggregate.
+Information about podcast listeners and subscribers is saved to provide analytics for podcast owners. If you listen to a Pinecast podcast or visit a podcast short link, a fingerprint (cryptographically hashed version) of your IP address, user agent string, and other metadata sent by your browser may be recorded and stored indefinitely. This information is not available to podcast owners in its raw form and can only be accessed in aggregate.
 
 
 ## How your information is stored
 
 Information may be stored in a number of places:
 
-- Information about your account and podcast(s) is stored in Heroku databases
-- Analytics data is stored in Amazon Aurora databases
+- Information about your account and podcast(s) is stored in Amazon Web Services
 - Error reports are stored on Rollbar
 - Your email address and information about how you use Pinecast may be provided to Intercom or Zendesk in order to facilitate customer support
+- Logs of your activity on Pinecast may be recorded to logging software like Amazon CloudWatch
 
-Some information may be stored temporarily in the form of logs in the following places:
-
-- Amazon CloudWatch
-- Heroku logging
 
 ## How your information is used
 
@@ -87,12 +83,6 @@ Pinecast will share information with third parties if we have a good-faith belie
 - Comply with the law, legal process, or enforceable government request
 - Enforce our terms of use
 - Protect Pinecast and its services from harm
-
-### Headliner
-
-If you choose to use our Headliner integration, your podcast and the data you submit is subject to Headliner's privacy policy.
-
-https://static.sparemin.com/static/doc/201808291932/privacy-policy.html
 
 
 ## How information is protected
